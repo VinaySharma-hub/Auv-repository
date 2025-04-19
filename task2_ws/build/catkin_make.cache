@@ -1,0 +1,2 @@
+cam_processing
+-DCATKIN_DEVEL_PREFIX=/home/vinay/task2_ws/devel -DCMAKE_INSTALL_PREFIX=/home/vinay/task2_ws/install -G Unix Makefiles

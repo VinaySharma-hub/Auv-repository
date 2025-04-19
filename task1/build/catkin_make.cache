@@ -1,0 +1,2 @@
+camera_edge:q1_chat:q2_numbers:q3_bot
+-DCATKIN_DEVEL_PREFIX=/home/vinay/auv_assignment_ws/devel -DCMAKE_INSTALL_PREFIX=/home/vinay/auv_assignment_ws/install -G Unix Makefiles

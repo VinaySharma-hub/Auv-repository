@@ -1,0 +1,8 @@
+prefix=/home/vinay/auv_assignment_ws/install
+
+Name: camera_edge
+Description: Description of camera_edge
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

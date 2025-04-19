@@ -1,0 +1,8 @@
+prefix=/home/vinay/auv_assignment_ws/install
+
+Name: q1_chat
+Description: Description of q1_chat
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
