@@ -1,0 +1,5 @@
+First I read the problem like many times to really get it then i wrote down some examples on paper to see the pattern my code worked after fixing a few dumb mistakes in c++ then i translate it in python using saome helps of ai too,  forgot one colon and mixed up variable names in python basics. 
+
+Q2: This one was about [real-world thing like "counting words"]. At first I tried doing it the noramal way, then remembered Python has built-in tools for this which i learned instantly .i feel good when len(text.split()) gave the right answer instantly.
+
+Q3: Struggled until I imagined how I'd do it manually. Wrote each step as comments first, then filled in the code. Still not perfect but gets the job done.
